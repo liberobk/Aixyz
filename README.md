@@ -1,2 +1,3 @@
 # Aixyz_bbs
-Aixyz bbs
+
+Ip:123.123.123.123
