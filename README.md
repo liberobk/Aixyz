@@ -1,6 +1,4 @@
-# Aixyz_bbs
-
-# IP:198.13.36.53
+# Aixyz_bbs IP:198.13.36.53
 
 # Invitation code  2018-03-08 close
 960aa9d988d2be35
